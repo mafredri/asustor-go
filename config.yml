@@ -3,7 +3,7 @@ ssh: ascross
 
 package: go
 name: Go
-version: 1.9.0
+version: 1.9.2
 architecture: ""
 firmware: 2.6.0
 
